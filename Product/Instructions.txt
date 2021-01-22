@@ -1,0 +1,5 @@
+Instructions to ensure correct working of software:
+
+1] Save databases 32 and 23 on the desktop. This is available in the database ZIP file in the Product folder. 
+2] Ensure database connection through JDBC-ODBC bridge. 
+3] Ensure DateChooser.jar and jcalendar-1.4.jar are present in the library. These are available in the lib folder present in the product folder.
